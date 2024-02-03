@@ -1,8 +1,7 @@
 {
  "display": "fullscreen",
- "theme_color": "#0089C8",
- "name": "ESCOLA ROGACIONISTA",
  "background_color": "#0089C8",
+ "name": "ESCOLA ROGACIONISTA",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
+ "theme_color": "#0089C8",
  "start_url": "index.htm"
 }
